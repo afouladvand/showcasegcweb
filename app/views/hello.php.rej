@@ -1,0 +1,9 @@
+diff a/app/views/hello.php b/app/views/hello.php	(rejected hunks)
+@@ -23,6 +23,7 @@
+ 
+   <!-- dch -->
+ 
++  <!-- fürs deplay löschen dfdf 123 -->
+ 
+ >>>>>>> .merge_file_a04716
+   <body>
